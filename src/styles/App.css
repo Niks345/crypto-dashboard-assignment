@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.app-light {
+  background-color: #ffffff;
+  color: #222222;
+}
+
+.app-dark {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+.container {
+  padding: 20px;
+  min-height: 100vh;
+}
